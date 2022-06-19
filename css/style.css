@@ -1,3 +1,8 @@
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
 .container {
   width: 1240px;
   max-width: 100%;
@@ -162,7 +167,7 @@
   }
 }
 
-.active-lang, .active-page a {
+.active-lang {
   color: #070707;
 }
 
